@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+}
+
+.boutton {
+    display: flex;
+    justify-content: center;
+    margin-top: 25%;
+}
+.aléatoire {
+    text-align: center;
+    width: 120px;
+    height: 60px;
+    background-color: grey;
+    border-color: black;
+    border-width: 2px;
+}
+.utilisateur {
+    display: flex;
+    justify-content: center;
+    margin-top: 25%;
+}
+#choix {
+    display: flex;
+    text-align: center;
+    border-radius: 2px;
+    width: 120px;
+    height: 60px;
+
+}

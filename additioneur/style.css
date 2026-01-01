@@ -1,0 +1,15 @@
+body {
+    background-color: darkslategray;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.valeur {
+    background-color: white;
+    width: 21px;
+    text-align: center;
+    height: auto;
+}
