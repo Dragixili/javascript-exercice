@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+}
+
+.consigne {
+    display: flex;
+    justify-content: center;
+}
+
+.règles {
+    font-style: oblique;
+    margin-top: 15%;
+    width: 450px;
+    font-size: larger;
+    font-weight:bold;
+    text-align: center;
+    background-color: cadetblue;
+    border-color: white;
+    border-radius: 20px ;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+}
+
+.nombre {
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+}
