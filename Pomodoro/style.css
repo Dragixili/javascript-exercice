@@ -1,0 +1,55 @@
+body {
+    background-color: #B67332;
+    font-family: "Saira", sans-serif;
+}
+
+header {
+    background-color: #EEE6D8;
+    display: flex;
+    width: 85%;
+    margin: auto;
+}
+
+.titre {
+    margin-left: 45%;
+    font-size: large;
+}
+
+.header_choix {
+    margin-left: auto;
+}
+
+.zones {
+    list-style-type: none;
+    display: flex;
+    margin-right: 30px;
+    margin-top: 19px;
+}
+
+.zones li {
+    margin-left: 25px;
+}
+
+.time {
+    height: 200px;
+    margin-top: 30%;
+    display: grid;
+    justify-content: center;
+}
+
+.temps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 300px;
+    font-size: large;
+    border-radius: 7px;
+    background-color: #93441A;
+}
+
+.play {
+    font-family: "Saira", sans-serif;
+    border: none;
+    border-radius: 2px;
+}
